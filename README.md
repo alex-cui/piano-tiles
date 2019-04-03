@@ -1,4 +1,4 @@
-#Piano Tiles
+# Piano Tiles
 
 Piano Tiles was at once an immensely popular mobile game, where the goal of the game is to press a set amount of tiles as fast as you can. I have simplified that and modified it to my own liking. My arcade game will go on indefinitely as long as the correct tiles are pressed. The score is constantly updated on the LCD screen; and if you lose, simply restart by pressing a button again. 
 
