@@ -7,6 +7,8 @@ Files: https://drive.google.com/open?id=1GGmqERdyePOxbQvEcxRSP3u_w9RLhsoG
 
 In this project, I learned how to use multiple new components such as the LED matrix, the shift registers, and the joystick, and weave them all together to make a short, simple arcade game with replayability.
 
+![Image of Breadboard](https://github.com/alex-cui/piano-tiles/blob/master/breadboard.jpg)
+
 
 ## Outputs
 ------------
